@@ -2,11 +2,13 @@ The command line is the original way of interacting with the computer prior to t
 
 The command line is a very powerful tool for developers as it allows for maximal activity with limited actions. For example, three files of different types can easily be created in a directory by typing:
 
-  touch index.html style.css script.js
+    ''command line
+    touch index.html style.css script.js
   
 If a command is know such as touch but the user wants to find out more type in:
 
-  man touch
+    ''command line
+    man touch
 
 'man' is the command to show the manual of the command that is entered.
 
