@@ -21,23 +21,33 @@ The command line is broken into:
 
 What is the command line?
 * The command line is a text only interface which allows the user to direct the computer to complete tasks.
+
 How do you open the command line on your terminal?
-* On Mac, Command + space and enter terminal in search bar. Unix ctr+alt+t. Windows is not a unix based machine so it must rely on a virtual machine to open a unix system of which the ctrl+alt+t command can be used to pull up the command line?
+* On Mac, Command + space and enter terminal in search bar. Unix ctr+alt+t. Windows is not a unix based machine so it must rely on a virtual machine to open a unix system of which the ctrl+alt+t command can be used to pull up the command line.
+
 How can you navigate to a particular directory?
 * Enter cd ~/directory/folder/subfolder
+
 Where will cd on its own navigate to?
 * On its own the cd command will navigate to the Home folder?
+
 Where will cd... navigate to?
 * cd ... command will navigate up one folder.
+
 How do you display the name of the current directory of which you are in?
 * pwd...(print working directory)
+
 How do you display the contents of the current directory contents?
 * ls ; ls -l to display the files in a list
+
 How do you create a new directory?
 * mkdir directoryname
+
 How do you create a new file?
 * echo file.txt
+
 How do you destroy or remove a file?
 * rm file.text ; for dir ... rm -r or rmdir
-How do you rename a director or file?
+
+How do you rename a directory or file?
 * mv file1.txt file2.txt
