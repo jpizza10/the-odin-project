@@ -60,4 +60,28 @@ Javascript contails only one type of number. All numbers stored as a double prec
  \+\+ | Increment
  \-\- | Decrement
  
+ ### Variables
  
+ Variables are able to be declared using var, let, or const.
+ 
+ ''' let message = "hello, world" '''
+ 
+ There is a difference in the use of let and var in variable declarations.
+ 
+ Variable names can not begin with a number and can only contain letters, numbers, underscores, or $.
+ 
+ Some names are resereved and cannot be used as a variable name.
+ 
+ To declare a immutable variable, instead of using 'let'. Use 'Const' i.e.
+ 
+ ''' const currency = 93094.930 '''
+ 
+ Can utilize constants with capital letters for hard-coded values that will not change at runtime.
+ 
+ ''' const COLOR_GREEN = #F032 '''
+ 
+ 
+ 
+ 
+ 
+ The assignment operator is =
