@@ -64,7 +64,7 @@ Javascript contails only one type of number. All numbers stored as a double prec
  
  Variables are able to be declared using var, let, or const.
  
- ''' let message = "hello, world" '''
+ ``` let message = "hello, world" ```
  
  There is a difference in the use of let and var in variable declarations.
  
