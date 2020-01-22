@@ -74,14 +74,9 @@ Javascript contails only one type of number. All numbers stored as a double prec
  
  To declare a immutable variable, instead of using 'let'. Use 'Const' i.e.
  
- ''' const currency = 93094.930 '''
+ ``` const currency = 93094.930 ```
  
  Can utilize constants with capital letters for hard-coded values that will not change at runtime.
  
- ''' const COLOR_GREEN = #F032 '''
- 
- 
- 
- 
- 
- The assignment operator is =
+ ``` const COLOR_GREEN = #F032 ```
+
